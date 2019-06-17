@@ -2,12 +2,12 @@
 
 Before running:
 
-	```pip install -r requirements.txt```
+	pip install -r requirements.txt
 
 To run:
 
-	```python wiki.py```
+	python wiki.py
 
 For help and options:
 
-	```python wiki.py --help```
+	python wiki.py --help

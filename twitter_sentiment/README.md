@@ -2,8 +2,8 @@
 
 Before running:
 
-	```pip install -r requirements.txt```
+	pip install -r requirements.txt
 
 Launch the Jupyter Notebook:
 
-	```jupyter notebook twitter_sentiment_analysis.ipynb```
+	jupyter notebook twitter_sentiment_analysis.ipynb
