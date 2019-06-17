@@ -65,7 +65,7 @@ class EndToEndTest(unittest.TestCase):
          "Should follow links which have parentheses."],
 
         ['https://en.wikipedia.org/wiki/César_Award_for_Best_Film',
-         "César Award for Best Film > César Award > Cinema of France > Film industry > Filmmaking > Film > Projection screen > Projector > Optics > Physics > Natural science > Branches of science > Science > Knowledge > Fact > Reality > Object of the mind > Object (philosophy) > Philosophy",
+         "César Award for Best Film > César Award > Cinema of France > Film industry > Filmmaking > Film > Cinematography > *Looped to Film*",
          "Should look into bold text links"],
 
         ['https://en.wikipedia.org/wiki/Topless_(film)',

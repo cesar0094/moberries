@@ -169,7 +169,6 @@ def get_to_philosophy(url, request_delay=REQUEST_DELAY, request_timeout=REQUEST_
 
         path.append(title)
         visited.add(title)
-        print(title)
         first_link = find_first_link(doc)
         if not first_link:
             path.append("*Page without a valid first link found*")

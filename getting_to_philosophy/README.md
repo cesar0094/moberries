@@ -11,3 +11,7 @@ To run:
 For help and options:
 
 	python wiki.py --help
+
+To run tests:
+
+	python wiki_test.py
